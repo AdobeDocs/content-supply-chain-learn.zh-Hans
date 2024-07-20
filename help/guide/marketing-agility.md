@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14156
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: a72efe7e-e7ff-4845-9242-f038f10bb805
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 0%
 
 ---
-
 
 # 营销敏捷性：使非创意人员能够进行扩展
 
@@ -79,7 +79,7 @@ ht-degree: 0%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" title="使用Firefly创建社交海报">使用Firefly创建社交海报</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" title="使用Firefly创建社交海报">创建带有Firefly的社交海报</a>
           </p>
           <p class="is-size-6"><em>了解如何在Adobe Express中使用由Adobe Firefly提供支持的文本到图像来创建社交媒体的促销活动。 本教程使用新Adobe Express。</em></p>
       </div>
@@ -100,7 +100,7 @@ ht-degree: 0%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="使用Firefly创建网络研讨会海报">使用Firefly创建网络研讨会海报</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="使用Firefly创建网络研讨会海报">创建具有Firefly的网络研讨会海报</a>
           </p>
           <p class="is-size-6"><em>了解如何在Adobe Express中使用由Adobe Firefly提供支持的“文本到图像”功能来创建虚拟现实活动的网络研讨会海报。 本教程使用新Adobe Express。</em></p>
       </div>
@@ -184,7 +184,7 @@ ht-degree: 0%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="使分散的团队能够本地化内容">使分散的团队能够本地化内容</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="使分散的团队能够本地化内容">使分布式团队能够本地化内容</a>
           </p>
           <p class="is-size-6"><em>了解分布式现场营销团队如何轻松地根据所在地区为本地营销活动自定义内容。 </em></p>
       </div>
@@ -268,7 +268,7 @@ ht-degree: 0%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="使用Content Services实现Creative Cloud自动化概述">使用Content Services实现Creative Cloud自动化概述</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="使用Content Services实现Creative Cloud自动化概述">使用Creative Cloud服务的内容自动化概述</a>
           </p>
           <p class="is-size-6"><em>此概述将Photoshop和Lightroom功能与Adobe Experience Manager Assets Content Automation结合使用。</em></p>
       </div>
@@ -469,5 +469,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [Experience League事件](https://experienceleague.adobe.com/events/)
-* [内容供应链上的Adobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Experience League活动](https://experienceleague.adobe.com/events/)
+* 内容供应链上的[Adobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

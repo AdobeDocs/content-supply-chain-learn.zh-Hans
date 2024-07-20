@@ -18,7 +18,7 @@ ht-degree: 2%
 + [资产管理](asset-management.md)
 + [交付和激活](delivery-and-activation.md)
 + [报告和见解](reporting-and-insights.md)
-+ 隐藏 {#hidden}
++ 隐藏{#hidden}
    + [创意生产力](creative-productivity.md)
    + [使用AEM Assets提高创意工作效率](creative-productivity-aemassets.md)
    + [营销敏捷度](marketing-agility.md)

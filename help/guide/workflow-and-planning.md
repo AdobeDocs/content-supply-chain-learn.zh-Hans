@@ -9,13 +9,13 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14154
-source-git-commit: f3082975a674a13152aa92c06302e67e9f4715b6
+exl-id: ce56c21c-1d75-4694-91a8-06c1b1067026
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '446'
 ht-degree: 8%
 
 ---
-
 
 # 工作流和规划教程
 
@@ -28,7 +28,7 @@ ht-degree: 8%
 
 >[!TIP]
 >
->我们的Adobe产品专家团队为关键内容供应链用例编写了一组集成教程。 如果您使用多个解决方案，请了解集成它们的最佳方法！  查看 [内容供应链集成教程](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>我们的Adobe产品专家团队为关键内容供应链用例编写了一组集成教程。 如果您使用多个解决方案，请了解集成它们的最佳方法！  查看[内容供应链集成教程](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en)。
 
 ## 推荐课程
 
@@ -115,7 +115,7 @@ ht-degree: 8%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" title="配置Adobe Workfront和AEM Assets软件包">配置Adobe Workfront和AEM Assets软件包</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" title="配置Adobe Workfront和AEM Assets软件包">配置Adobe Workfront和AEM Assets Essentials</a>
           </p>
           <p class="is-size-6"><em>了解如何配置Adobe Workfront和Assets Essentials集成</em></p>
       </div>
@@ -244,5 +244,5 @@ ht-degree: 8%
 
 ## 其他资源
 
-* [Experience League事件](https://experienceleague.adobe.com/events/)
-* [内容供应链上的Adobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Experience League活动](https://experienceleague.adobe.com/events/)
+* 内容供应链上的[Adobe](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

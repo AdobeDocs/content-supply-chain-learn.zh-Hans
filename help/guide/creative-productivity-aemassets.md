@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+exl-id: e66480f9-c7af-4b15-afdf-dd89a792af20
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 3%
 
 ---
-
 
 # 创意工作效率：为创意团队提供超强动力
 
@@ -59,7 +59,7 @@ ht-degree: 3%
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" target="_blank">
         <strong>配置对Experience Manager的管理访问权限</strong></a>
-        <p class="is-size-7 recs-limit-description">了解用户如何使用Adobe IMS对AEMas a Cloud Service进行身份验证，以及如何使用Adobe IMS用户、用户组和产品配置文件来控制对AEM及其特性和功能的访问。</p>
+        <p class="is-size-7 recs-limit-description">了解用户如何使用Adobe IMS对AEM as a Cloud Service进行身份验证，以及如何使用Adobe IMS用户、用户组和产品配置文件来控制对AEM及其特性和功能的访问。</p>
         <p><a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">了解详情</span></a></p>
         </div>
       </td>
@@ -208,7 +208,7 @@ ht-degree: 3%
           <p class="headline is-size-6 has-text-weight-bold">
               <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="AdobeAsset Link设置">AdobeAsset Link设置</a>
           </p>
-          <p class="is-size-6"><em>了解如何为AEMas a Cloud Service设置AdobeAsset Link、配置用户权利和AEMas a Cloud Service，以及如何安装和使用AdobeAsset Link。</em></p>
+          <p class="is-size-6"><em>了解如何为AEM as a Cloud Service设置Adobe资源链接，配置用户权利和AEM as a Cloud Service，以及如何安装和使用Adobe资源链接。</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">观看视频</span>
